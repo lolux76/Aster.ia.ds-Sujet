@@ -2,23 +2,16 @@
 	<h1> Aster.ia.ds </h1>
 </div>
 
-<p align="center">
+<p align="center">@Wele oumar 🎙️
 	Jeu-vidéo - Interface graphique - IA - Rendu 2D / 3D
 </p>
 
 Basé sur le jeu [Asteroids](https://fr.wikipedia.org/wiki/Asteroids) des années 80,
-Aster.ia.ds est un remake de ce dernier mais avec des technologies plus récentes et vue à l'Université.
+Aster.ia.ds est un remake de ce dernier mais avec des technologies plus récentes et vus à l'Université.
 
-L'objectif est de réaliser un jeu multijoueur, dans lequel des étudiants de l'Université pourrait aussi bien joué eux-même
+L'objectif final est de réaliser un jeu multijoueur, dans lequel des étudiants de l'Université pourrait aussi bien joué eux-même
 ou faire joué une IA qu'ils auraient conçu. Le tout réalisé et mis à jour par des étudiants pour des étudiants.
 
-Les différentes étapes du projet :
- - Création, préparation et maturation par [PC[i]](https://projetcohesion.info)
- - Dépos du projet auprès des enseignants qui gère la L3 à l'Université d'Angers
- - Développement initial par des étudiants en L3 dans le cadre de leur stage de fin d'année,il sera encadrer par l'association [PC[i]](https://projetcohesion.info) (8 semaines minimum)
- - Reprise du projet par PC[i] en interne pour rajouter des fonctionnalités manquantes et préparé le déploiement
- - Première pré-release reservé aux membres de PC[i] et aux étudiants ayant contribuer (aux environs de juillet 2022)
- - Déploiement de la première release (Première de date de sortie espéré aux environs de début aout 2022)
 
 ## Pourquoi nous ? 🤔
 
@@ -42,6 +35,15 @@ D'autres technologies pourront être utilisées si elles sont correctement justi
 
 Le stage sera deroulera avec une méthode agile dont la durée des sprint et leurs contenu varieront en fonction de l'avancement du projet. 
 
+## Étapes
+
+ - Création, préparation et maturation par [PC[i]](https://projetcohesion.info)
+ - Dépos du projet auprès des enseignants qui gère la L3 à l'Université d'Angers
+ - Développement initial par des étudiants en L3 dans le cadre de leur stage de fin d'année,il sera encadrer par l'association [PC[i]](https://projetcohesion.info) (8 semaines minimum)
+ - Reprise du projet par PC[i] en interne pour rajouter des fonctionnalités manquantes et préparé le déploiement
+ - Première pré-release reservé aux membres de PC[i] et aux étudiants ayant contribuer (aux environs de juillet 2022)
+ - Déploiement de la première release (Première de date de sortie espéré aux environs de début aout 2022)
+ 
 ## Contenu attendu
 
   - Une interface graphique comportant :
