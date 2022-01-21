@@ -9,8 +9,7 @@
 Basé sur le jeu [Asteroids](https://fr.wikipedia.org/wiki/Asteroids) des années 80,
 Aster.ia.ds est un remake de ce dernier mais avec des technologies plus récentes et vus à l'Université.
 
-L'objectif du stage est de réaliser un jeu solo pour des étudiants de l'Université avec les détails décrit plus bas.
-Le code rendu sera repris par [PC[i]](https://projetcohesion.info), pour le rendre multijoueur et implémenter quelques fonctionnalités suplémentaires tel que la posssiblité d'inclure des IA plutôt que de joué soit-même.
+L'objectif du stage est de réaliser un jeu solo avec les détails décrit plus bas pour qu'il soit repris par [PC[i]](https://projetcohesion.info), pour le rendre multijoueur et implémenter quelques fonctionnalités suplémentaires tel que la posssiblité d'inclure des IA plutôt que de joué soit-même.
 
 ## Pourquoi nous ? 🤔
 
@@ -38,7 +37,7 @@ Le stage sera deroulera avec une méthode agile dont la durée des sprint et leu
 
  - Création, préparation et maturation par [PC[i]](https://projetcohesion.info)
  - Dépos du projet auprès des enseignants qui gère la L3 à l'Université d'Angers
- - Développement initial par des étudiants en L3 dans le cadre de leur stage de fin d'année,il sera encadrer par l'association [PC[i]](https://projetcohesion.info) (8 semaines minimum)
+ - **Développement initial par des étudiants en L3 dans le cadre de leur stage de fin d'année,il sera encadrer par l'association [PC[i]]**(https://projetcohesion.info) (8 semaines minimum)
  - Reprise du projet par PC[i] en interne pour rajouter des fonctionnalités manquantes et préparé le déploiement
  - Première pré-release reservé aux membres de PC[i] et aux étudiants ayant contribuer (aux environs de juillet 2022)
  - Déploiement de la première release (Première de date de sortie espéré aux environs de début aout 2022)
