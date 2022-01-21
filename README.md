@@ -2,16 +2,15 @@
 	<h1> Aster.ia.ds </h1>
 </div>
 
-<p align="center">@Wele oumar 🎙️
+<p align="center">
 	Jeu-vidéo - Interface graphique - IA - Rendu 2D / 3D
 </p>
 
 Basé sur le jeu [Asteroids](https://fr.wikipedia.org/wiki/Asteroids) des années 80,
 Aster.ia.ds est un remake de ce dernier mais avec des technologies plus récentes et vus à l'Université.
 
-L'objectif final est de réaliser un jeu multijoueur, dans lequel des étudiants de l'Université pourrait aussi bien joué eux-même
-ou faire joué une IA qu'ils auraient conçu. Le tout réalisé et mis à jour par des étudiants pour des étudiants.
-
+L'objectif du stage est de réaliser un jeu solo pour des étudiants de l'Université avec les détails décrit plus bas.
+Le code rendu sera repris par [PC[i]](https://projetcohesion.info), pour le rendre multijoueur et implémenter quelques fonctionnalités suplémentaires tel que la posssiblité d'inclure des IA plutôt que de joué soit-même.
 
 ## Pourquoi nous ? 🤔
 
