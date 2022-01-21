@@ -11,6 +11,11 @@ Aster.ia.ds est un remake de ce dernier mais avec des technologies plus récente
 
 L'objectif du stage est de réaliser un jeu solo avec les détails décrit plus bas pour qu'il soit repris par [PC[i]](https://projetcohesion.info), pour le rendre multijoueur et implémenter quelques fonctionnalités suplémentaires tel que la posssiblité d'inclure des IA plutôt que de joué soit-même.
 
+## Table des matières
+1. [Example](#Pourquoi)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. 
 ## Pourquoi nous ? 🤔
 
  Un stage avec un cadre clair, mais avec la possibilité d'adadpté à tes gouts.
