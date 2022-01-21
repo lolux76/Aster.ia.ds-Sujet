@@ -110,6 +110,8 @@ N'hésite pas à envoyer un mail à contact@projetcohesion.info
 
 Ou [à venir nous voir](https://projetcohesion.info/a-propos/#bureau) on est souvent dans le batiment H (H001/2/3/7)
 
+
+<hr/>
 *[IPSI]: Initiation à la Programmation de Systèmes Intelligents
 *[TDPy]: Traitement de données en Python
 *[SI]: Synthèse d’images
