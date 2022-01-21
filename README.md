@@ -16,8 +16,8 @@ L'objectif du stage est de réaliser un jeu solo avec les détails décrit plus 
 2. [Technologies](#technologies)
 3. [Méthodologie](#méthodologie)
 4. [Étapes](#étapes)
-5. [Contenu attendu](#cotenu-attendu)
-6. [Contenu suplémentaire](#contenu-suplementaire)
+5. [Contenu attendu](#contenu-attendu)
+6. [Contenu suplémentaire](#contenu-suplémentaire)
 7. [Une question ❓](#une-question-)
 
 ## Pourquoi nous ? 🤔
