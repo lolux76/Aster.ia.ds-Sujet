@@ -7,9 +7,11 @@
 </p>
 
 Basé sur le jeu [Asteroids](https://fr.wikipedia.org/wiki/Asteroids) des années 80,
-Aster.ia.ds est un remake de ce dernier mais avec des technologies plus récentes et vus à l'Université.
+Aster.ia.ds est un remake de ce dernier avec des technologies vues en cours.
 
-L'objectif du stage est de réaliser un jeu solo avec les détails décrit plus bas pour qu'il soit repris par [PC[i]](https://projetcohesion.info), pour le rendre multijoueur et implémenter quelques fonctionnalités suplémentaires tel que la posssiblité d'inclure des IA plutôt que de joué soit-même.
+Votre objectif sera de réaliser un jeu multijoueur en 3D. Une liste d'objectif initiaux seront fournis puis des fonctionnalités seront demander en fonction du besoin et de l'avancement du projet.
+
+Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](https://projetcohesion.info) pourra enrichir avec quelques fonctionnalités suplémentaires tel que l'aspet multijoueur ou la gestion des IA des cosmétiques etc. Pour ensuite déployer ce projet et permmetre a tout étudiant de jouer ou de créer son IA sur le jeu.
 
 ## Table des matières
 1. [Pourquoi nous ? 🤔](#pourquoi-nous--)
@@ -22,21 +24,18 @@ L'objectif du stage est de réaliser un jeu solo avec les détails décrit plus 
 
 ## Pourquoi nous ? 🤔
 
- Un stage avec un cadre clair, mais avec la possibilité d'adadpté à tes gouts.
  Un projet avec une réel application derrière, et orienté jeux-vidéo.
- Qui met en application tes cours.
- Encadrer par des étudiants compétents, qui répondent vite, dans un cadre bien préparé.
+ Qui met en application tes cours. Encadrer par des étudiants.
+ Avec une certaine liberté dans les choix.
 
 ## Technologies
 
  - c++
  - Qt
  - OpenGL / GLU / GLUT
- - git \*
+ - git
 
-D'autres technologies pourront être utilisées si elles sont correctement justifiées
-
-\* : optionnel et possibilité d'avoirs de l'aide sur ces points, les autres sont fortement recommandé
+L'étudiant pourra utiliser des technologies supplémentaires en fonction de ses envies, de leurs cohérence avec le projet ainsi que de l'expertise de son tuteur.
 
 ## Méthodologie
 
@@ -54,58 +53,25 @@ Le stage sera deroulera avec une méthode agile dont la durée des sprint et leu
 ## Contenu attendu
 
   - Une interface graphique comportant :
-    - Un menu :
-      - Permet la saisie d'un :
-        - pseudo 
-        - mot de passe 
-        - d'un skin (changement de couleur et/ou de la forme (sans changement autre que rendu visuel))
-      - Permet le lancement du jeu
+    - Un menu
     - Le jeu :
-      - Devra comporter les éléments suivants :
-        - le vaisseau du joueur :
-          - restera centrer sur l'écran
-          - se dirigera vers le pointeur de la souris
-          - tirera des projectiles avec un clic souris
-        - les astéroïdes :
-          - pourront êtres détruites par les joueurs
-            - si grosse elles se divisent
-            - si petite elles disparaissent
-        - les adversaires :
-          - les mêmes possibilités que le joueur
-          - action choisi par un code arbitraire
-        - des bordures de cartes
+		- asteroides
+		- adversaires
+		- une interface utilisateur avec différentes informations
     - Une fenêtre de résultat
-  - Le code :
-    - Ré-utilisable ( commenté, indenté, propre, ... )
-    - Sans erreurs ( warning et erreur de compilation, crash avec par exemple erreurs de segmentation ...)
-    - Structuré ( plusieurs fichier séparé avec une logique clair )
-  - Tout élément ambigüe ou absent de cette liste pourra être choisi par les étudiants, après confirmation par les encadrants
+  - Un code d'une certaine qualité pour être reprenable.
+  - Des éléments viendrons à être rajouter par le client au fur et à mesure
 
 ## Contenu suplémentaire
 
-
-#### 🧠 Axe Intélligence artificiel :
-*Si vous avez fait IPSI et/ou TDPy, cette partie peut vous intérréssé*
-
-Les ennemis sont pour l'instant des scripts,
-mais il serait intérressant d'implémenter les algo d'IA que vous avez pu apprendres durant votre cursus.
-
-Et peut-être réalisé plusieurs IA avec plusieurs méthodes pour les comparés ou fw	aire différentes difficultés.
-à vous de voir ce que vous pouvez et voullez faire.
-
+Voici quelques pistes de ce qui pourraient être demander une fois la première partie achevé.
 
 #### 🎮 Axe Jeu Vidéo :
 *Si vous avez fait SI et/ou DIGA, cette partie peut vous intérréssé*
 
- - Graphique :
- 	Le jeu de base est demandé en 2D, mais s'il fonctionne en 2D pourquoi ne pas l'étendre en 3D ?
- 	avec toutes les difficultés et gestion à adapté.
-
-
  - Résultat :
  	La fenêtre de résultat de base ne doit rendre qu'un classement des joueurs et si l'on a perdu ou gagner
- 	mais pourquoi ne pas pousser plus loin l'interface et ajouter un graphique de l'évolution des scores de joueurs au fur et à mesures
- 	ou tout autre donnée du jeu qui serait intérressantes
+ 	mais pourquoi ne pas pousser plus loin l'interface et ajouter un graphique de l'évolution des scores des joueurs dans la partie	ou tout autre donnée du jeu qui serait pertinantes.
 
 
  - Options :
@@ -113,6 +79,15 @@ Et peut-être réalisé plusieurs IA avec plusieurs méthodes pour les comparés
  	directement une fois le jeu lancer pourrait être un énorme atout au jeu
    
    
+#### 🧠 Axe Intélligence artificiel :
+*Si vous avez fait IPSI et/ou TDPy, cette partie peut vous intérréssé*
+
+Les ennemis sont pour l'instant des scripts,
+mais il serait intérressant d'implémenter les algo d'IA que vous avez pu apprendres durant votre cursus.
+
+Et peut-être réalisé plusieurs IA avec plusieurs méthodes pour les comparés ou faire différentes difficultés.
+à vous de voir ce que vous pouvez et voullez faire.
+
 ## Une question ❓
 
 N'hésite pas à envoyer un mail à contact@projetcohesion.info
@@ -121,7 +96,7 @@ Ou [à venir nous voir](https://projetcohesion.info/a-propos/#bureau) on est sou
 
 
 <hr/>
-*[IPSI]: Initiation à la Programmation de Systèmes Intelligents
-*[TDPy]: Traitement de données en Python
-*[SI]: Synthèse d’images
-*[DIGA]:  Développement d’Interfaces Graphiques Avancées
+*[IPSI]: Initiation à la Programmation de Systèmes Intelligents <br/>
+*[TDPy]: Traitement de données en Python <br/>
+*[SI]: Synthèse d’images <br/>
+*[DIGA]:  Développement d’Interfaces Graphiques Avancées <br/>
