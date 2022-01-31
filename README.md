@@ -35,7 +35,7 @@ Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](h
  - OpenGL / GLU / GLUT
  - git
 
-L'étudiant pourra utiliser des technologies supplémentaires en fonction de ses envies, de leurs cohérences avec le projet ainsi que de l'expertise de son tuteur.
+Les étudiants pourront utiliser des technologies supplémentaires en fonction de ses envies, de leurs cohérences avec le projet ainsi que de l'expertise de son tuteur.
 
 ## Méthodologie
 
