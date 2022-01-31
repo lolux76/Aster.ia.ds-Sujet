@@ -47,8 +47,8 @@ Le stage se déroulera avec une méthode agile dont la durée des sprints et leu
  - Dépos du projet auprès des enseignants qui gère la L3 à l'Université d'Angers
  - **Développement initial par des étudiants en L3 dans le cadre de leur stage de fin d'année,il sera encadrer par l'association [PC[i]](https://projetcohesion.info)** (8 semaines minimum)
  - Reprise du projet par PC[i] en interne pour rajouter des fonctionnalités manquantes et préparer le déploiement
- - Première pré-release reservé aux membres de PC[i] et aux étudiants ayant contribuer (aux environs de juillet 2022)
- - Déploiement de la première release (Première de date de sortie espéré aux environs de début aout 2022)
+ - Première pré-release réservée aux membres de PC[i] et aux étudiants ayant contribués (aux environs de juillet 2022)
+ - Déploiement de la première release (Première date de sortie espérée aux environs de début aout 2022)
  
 ## Contenu attendu
 
@@ -64,29 +64,29 @@ Le stage se déroulera avec une méthode agile dont la durée des sprints et leu
 
 ## Contenu suplémentaire
 
-Voici quelques pistes de ce qui pourraient être demander une fois la première partie achevé.
+Voici quelques pistes de ce qui pourraient être demandé une fois la première partie achevée.
 
 #### 🎮 Axe Jeu Vidéo :
 *Si vous avez fait SI et/ou DIGA, cette partie peut vous intérrésser*
 
  - Résultat :
- 	La fenêtre de résultat de base ne doit rendre qu'un classement des joueurs et si l'on a perdu ou gagner
- 	mais pourquoi ne pas pousser plus loin l'interface et ajouter un graphique de l'évolution des scores des joueurs dans la partie	ou tout autres données du jeu qui seraient pertinentes.
+ 	La fenêtre de résultat de base ne doit rendre qu'un classement des joueurs et si l'on a perdu ou gagné
+ 	mais pourquoi ne pas pousser plus loin l'interface et ajouter un graphique de l'évolution des scores des joueurs dans la partie	ou toutes autres données du jeu qui seraient pertinentes.
 
 
  - Paramètre et option :
- 	Un système de configuration de paramètre tel que la qualité de rendu, sans éditer le code ou un fichier de configuration
-	directement une dans l'interface serait être un énorme atout au jeu.
+ 	Un système de configuration de paramètre telle que la qualité de rendu, sans éditer le code ou un fichier de configuration
+	directement dans l'interface serait être un énorme atout au jeu.
    
    
-#### 🧠 Axe Intélligence artificiel :
+#### 🧠 Axe Intelligence artificiel :
 *Si vous avez fait IPSI et/ou TDPy, cette partie peut vous intérrésser*
 
 Les ennemis sont pour l'instant des scripts de base,
 mais il serait intérressant d'implémenter les algo d'IA que vous avez pu apprendres durant votre cursus.
 
-Et peut-être réalisé plusieurs IA avec plusieurs méthodes pour les comparés ou faire différentes difficultés.
-à vous de voir ce que vous pouvez et voullez faire.
+Et peut-être, réaliser plusieurs IA avec plusieurs méthodes pour les comparer ou faire différentes difficultés.
+À vous de voir ce que vous pouvez et voullez faire.
 
 ## Une question ❓
 
