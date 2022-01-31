@@ -9,9 +9,9 @@
 Basé sur le jeu [Asteroids](https://fr.wikipedia.org/wiki/Asteroids) des années 80,
 Aster.ia.ds est un remake de ce dernier avec des technologies vues en cours.
 
-Votre objectif sera de réaliser un jeu multijoueur en 3D. Une liste d'objectif initiaux seront fournis puis des fonctionnalités seront demander en fonction du besoin et de l'avancement du projet.
+Votre objectif sera de réaliser un jeu multijoueur en 3D. Une liste d'objectif initiaux seront fournis puis des fonctionnalités seront demander en fonction du besoin et de l'avancement du projet, par le client.
 
-Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](https://projetcohesion.info) pourra enrichir avec quelques fonctionnalités suplémentaires tel que l'aspet multijoueur ou la gestion des IA des cosmétiques etc. Pour ensuite déployer ce projet et permmetre a tout étudiant de jouer ou de créer son IA sur le jeu.
+Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](https://projetcohesion.info) pourra enrichir avec quelques fonctionnalités suplémentaires tel que l'aspet multijoueur ou la gestion des IA des cosmétiques etc. Pour ensuite déployer ce projet et permettre à tout étudiant de jouer ou de créer son IA sur le jeu.
 
 ## Table des matières
 1. [Pourquoi nous ? 🤔](#pourquoi-nous--)
