@@ -24,7 +24,7 @@ Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](h
 
 ## Pourquoi nous ? 🤔
 
- Un projet avec une réel application derrière, et orienté jeux-vidéo.
+ Un projet avec une réelle application derrière, et orienté jeux-vidéo.
  Qui met en application tes cours. Encadrer par des étudiants.
  Avec une certaine liberté dans les choix.
 
@@ -39,7 +39,7 @@ Les étudiants pourront utiliser des technologies supplémentaires en fonction d
 
 ## Méthodologie
 
-Le stage sera deroulera avec une méthode agile dont la durée des sprints et leurs contenu varieront en fonction de l'avancement du projet. 
+Le stage se déroulera avec une méthode agile dont la durée des sprints et leurs contenus varieront en fonction de l'avancement du projet. 
 
 ## Étapes
 
