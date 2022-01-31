@@ -6,7 +6,7 @@
 	Jeu-vidéo - Interface graphique - IA - Rendu 2D / 3D
 </p>
 
-Basé sur le jeu [Asteroids](https://fr.wikipedia.org/wiki/Asteroids) des années 80,
+Basé sur le jeu des années 80 [Asteroids](https://fr.wikipedia.org/wiki/Asteroids),
 Aster.ia.ds est un remake de ce dernier avec des technologies vues en cours.
 
 Votre objectif sera de réaliser un jeu multijoueur en 3D. Une liste d'objectifs initiaux seront fournis puis des fonctionnalités seront demandées en fonction du besoin et de l'avancement du projet, par le client.
