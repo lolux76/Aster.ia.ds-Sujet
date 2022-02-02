@@ -11,7 +11,7 @@ Aster.ia.ds est un remake de ce dernier avec des technologies vues en cours.
 
 Votre objectif sera de réaliser un jeu multijoueur en 3D. Une liste d'objectifs initiaux seront fournis puis des fonctionnalités seront demandées en fonction du besoin et de l'avancement du projet, par le client.
 
-Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](https://projetcohesion.info) pourra enrichir avec quelques fonctionnalités supplémentaires telle que l'aspet multijoueur ou la gestion des IA, des cosmétiques etc. Pour ensuite déployer ce projet et permettre à tout étudiant de jouer ou de créer son IA sur le jeu.
+Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](https://projetcohesion.info) pourra enrichir avec quelques fonctionnalités supplémentaires telle que l'aspect multijoueur ou la gestion des IA, des cosmétiques etc. Pour ensuite déployer ce projet et permettre à tout étudiant de jouer ou de créer son IA sur le jeu.
 
 ## Table des matières
 1. [Pourquoi nous ? 🤔](#pourquoi-nous--)
@@ -25,7 +25,7 @@ Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](h
 ## Pourquoi nous ? 🤔
 
  Un projet avec une réelle application derrière, et orienté jeux-vidéo.
- Qui met en application tes cours. Encadrer par des étudiants.
+ Qui met en application tes cours. Encadré par des étudiants.
  Avec une certaine liberté dans les choix.
 
 ## Technologies
@@ -35,7 +35,7 @@ Le but de ce stage est de fournir un contenu de base que l'association [PC[i]](h
  - OpenGL / GLU / GLUT
  - git
 
-Les étudiants pourront utiliser des technologies supplémentaires en fonction de ses envies, de leurs cohérences avec le projet ainsi que de l'expertise de son tuteur.
+Les étudiants pourront utiliser des technologies supplémentaires en fonction de leurs envies, de leurs cohérences avec le projet ainsi que de l'expertise de leur tuteur.
 
 ## Méthodologie
 
@@ -44,17 +44,17 @@ Le stage se déroulera avec une méthode agile dont la durée des sprints et leu
 ## Étapes
 
  - Création, préparation et maturation par [PC[i]](https://projetcohesion.info)
- - Dépos du projet auprès des enseignants qui gère la L3 à l'Université d'Angers
- - **Développement initial par des étudiants en L3 dans le cadre de leur stage de fin d'année,il sera encadrer par l'association [PC[i]](https://projetcohesion.info)** (8 semaines minimum)
+ - Dépôt du projet auprès des enseignants qui gèrent la L3 à l'Université d'Angers
+ - **Développement initial par des étudiants en L3 dans le cadre de leur stage de fin d'année,il sera encadré par l'association [PC[i]](https://projetcohesion.info)** (8 semaines minimum)
  - Reprise du projet par PC[i] en interne pour rajouter des fonctionnalités manquantes et préparer le déploiement
- - Première pré-release réservée aux membres de PC[i] et aux étudiants ayant contribués (aux environs de juillet 2022)
- - Déploiement de la première release (Première date de sortie espérée aux environs de début aout 2022)
+ - Première pré-release réservée aux membres de PC[i] et aux étudiants ayant contribués (aux environs de Juillet 2022)
+ - Déploiement de la première release (Première date de sortie espérée aux environs de début Aout 2022)
  
 ## Contenu attendu
 
   - Une interface graphique comportant :
     - Un menu
-    - Le jeu :
+    - Le jeu en 3D :
 		- astéroïdes
 		- adversaires
 		- une interface utilisateur avec différentes informations (ex: vitesse, vie,...)
@@ -67,7 +67,7 @@ Le stage se déroulera avec une méthode agile dont la durée des sprints et leu
 Voici quelques pistes de ce qui pourraient être demandé une fois la première partie achevée.
 
 #### 🎮 Axe Jeu Vidéo :
-*Si vous avez fait SI et/ou DIGA, cette partie peut vous intérrésser*
+*Si vous avez fait SI et/ou DIGA, cette partie peut vous intéresser*
 
  - Résultat :
  	La fenêtre de résultat de base ne doit rendre qu'un classement des joueurs et si l'on a perdu ou gagné
@@ -76,17 +76,17 @@ Voici quelques pistes de ce qui pourraient être demandé une fois la première 
 
  - Paramètre et option :
  	Un système de configuration de paramètre telle que la qualité de rendu, sans éditer le code ou un fichier de configuration
-	directement dans l'interface serait être un énorme atout au jeu.
+	directement dans l'interface serait un énorme atout au jeu.
    
    
 #### 🧠 Axe Intelligence artificiel :
-*Si vous avez fait IPSI et/ou TDPy, cette partie peut vous intérrésser*
+*Si vous avez fait IPSI et/ou TDPy, cette partie peut vous intéresser*
 
 Les ennemis sont pour l'instant des scripts de base,
-mais il serait intérressant d'implémenter les algo d'IA que vous avez pu apprendres durant votre cursus.
+mais il serait intérressant d'implémenter les algo d'IA que vous avez pu apprendre durant votre cursus.
 
 Et peut-être, réaliser plusieurs IA avec plusieurs méthodes pour les comparer ou faire différentes difficultés.
-À vous de voir ce que vous pouvez et voullez faire.
+À vous de voir ce que vous pouvez et voulez faire.
 
 ## Une question ❓
 
